@@ -9,10 +9,9 @@ Créer un script qui permet de saisir deux valeurs a et b, et de donner le choix
 🔴EXERCICE 3 :
 Créer un script qui permet d’afficher le texte suivant:
 
-+-----------------------------------------------------------+
-| On est le JJ du mois MM en AAAA.                          |
-|  Maintenant il est H heure(s) Min minutes et S secondes.  |
-+-----------------------------------------------------------+
+	On est le JJ du mois MM en AAAA.
+	Maintenant il est H heure(s) Min minutes et S secondes.
+
 
 🔴EXERCICE 4 :
 
