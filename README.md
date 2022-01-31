@@ -26,8 +26,10 @@ Créer un script qui permet de calculer le nombre de fichiers et le nombre de do
 
 Créer un script qui permet de lire une chaîne de caractère et de n’afficher que les caractères des positions impaires (1 ère ,3 ème ,5 ème ...).
 • Exemple:
+	
+	
 	donner un nom : karim
-	resultat : k r m
+	resultat : 1 2 5 7
 
 🔴EXERCICE 7 :
 
